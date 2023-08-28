@@ -63,7 +63,7 @@ header{
     font-weight: 400;
     line-height: 25px; 
     text-align: center;
-    padding: 0 15%
+    padding: 0 25%
 }
 .round-card-container{
     display: flex;
@@ -123,7 +123,6 @@ position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    align-content: space-evenly;
     gap: 100px;
 }
 .icon-container{
@@ -161,4 +160,21 @@ position: relative;
 
 .sign-up{
     margin-top: 40px;
+}
+
+/* instagram section style */
+.instagram-section{
+    margin: 0 0 130px 0;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0 120px;
+    margin-top: 50px;
+    
+}
+
+.image-container img{
+    width: 250px;
 }
