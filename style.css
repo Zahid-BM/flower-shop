@@ -178,3 +178,40 @@ position: relative;
 .image-container img{
     width: 250px;
 }
+
+/* subscribe section style*/
+.subscribe-section{
+    background-image: url("images/Rectangle\ 9.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 90px 150px ;
+    margin: 0 120px 130px 120px;
+    border-radius: 8px;
+}
+.subscribe-form{
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+.subscribe-form input {
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    height: 50px;
+    display: block;
+    width: 500px;
+    padding-left: 20px;
+    margin-left: 40px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.subscribe-btn{
+    display: block;
+    margin-right: 50px;
+
+}
+.deal-heading{
+    margin-bottom: 20px;
+}
