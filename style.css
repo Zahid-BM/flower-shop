@@ -215,3 +215,32 @@ position: relative;
 .deal-heading{
     margin-bottom: 20px;
 }
+
+/* footer style */
+footer{
+    background: #111010;
+    padding: 128px 390px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    
+}
+.footer-text{
+    color: #FFF;
+    
+}
+.footer-heading{
+    color: #FFF;
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90);
+    line-height: 30px;
+    margin-bottom: 35px;
+}
+.footer-rights{
+    color: rgba(255, 255, 255, 0.40);
+}
