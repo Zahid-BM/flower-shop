@@ -115,6 +115,38 @@ position: relative;
 
 }
 
+/* bonus section style */
+.bonus-section{
+    background-image: url("images/bonus.png"), linear-gradient(43deg, #4159d0b0 0%, #c850c042 46%, #ffcd7080 100%);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    margin: 0 0 130px 0;
+}
+.bonus-section img{
+    width:30%;
+    margin: 5% 0%;
+}
+.bonus-container{
+    padding: 8% 10% 5% 30%;
+    text-align: end;
+    padding-left: 20%;
+}
+.bonus-container-01{
+    text-align: start;
+    padding: 0% 22% 10% 10%;
+    margin-top: 3%;
+}
+.bonus-heading{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.bonus-text{
+
+}
+
 /* icon section style */
 .icon-section{
     border-radius: 8px;
