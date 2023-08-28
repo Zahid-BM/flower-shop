@@ -76,7 +76,7 @@ header{
 
 }
 .card{
-    text-align: center;
+   
 }
 .pink-card{
     border-radius: 300px 300px 0px 0px;
@@ -101,14 +101,40 @@ position: relative;
 
 }
 .card-image{
-    width:50%;
-    padding: 100px 76px 0 76px;
-    height: 75%;
+    width:60%;
+    padding: 80px 76px 0 76px;
+    height: 80%;
     
 }
 .feature a {
    display: inline-block;
    margin-top: 30px;
-   color: black;
+   color: #272727;
+    font-size: 18px;
+    font-weight: 700;
 
+}
+
+/* icon section style */
+.icon-section{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 120px 130px 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-evenly;
+    gap: 100px;
+}
+.icon-container{
+    padding: 90px 0;
+    text-align: center;
+}
+.icon-img{
+
+}
+.icon-text{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    margin-top: 24px;
 }
