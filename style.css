@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/* header / banner section styles */
+header{
+    background:rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 83px;
+    align-items: center;
+    padding: 0 120px;
+
+}
+
+.banner-text-container{
+}
+.banner-heading{
+    color: #272727;
+    font-size: 63px;
+    font-weight:900;
+    margin: 0 0 20px 0;
+}
+.banner-text{
+    margin: 0 0 20px 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    line-height: 27px;
+    
+}
+.primary-button{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 18px 38px;
+    color: #FFF;
+    font-weight: 600;
+    border: 0;
+}
+.banner-photo{
+    width: 45%;
+    padding: 50px 0 0 0;
+}
