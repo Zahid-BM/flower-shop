@@ -117,7 +117,7 @@ position: relative;
 
 /* bonus section style */
 .bonus-section{
-    background-image: url("images/bonus.png"), linear-gradient(43deg, #4159d062 0%, #c850c042 46%, #ffcd7080 100%);
+    background-image: url("images/bonus.png"), linear-gradient(43deg, #4159d042 0%, #c850c042 46%, #ffcd7080 100%);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size:cover;
