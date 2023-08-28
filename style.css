@@ -58,7 +58,7 @@ header{
     font-weight: 800;
     margin-bottom: 40px;
 }
-.section-text{
+.section-paragraph{
     color: rgba(39, 39, 39, 0.60);
     font-weight: 400;
     line-height: 25px; 
@@ -137,4 +137,28 @@ position: relative;
     color: rgba(39, 39, 39, 0.80);
     font-size: 18px;
     margin-top: 24px;
+}
+
+/* hot deal section style */
+
+.deal-section{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px 160px;
+    margin: 0 0 130px 0;
+
+
+}
+
+.primary-color{
+    color: #E55473;
+}
+.hot-image{
+}
+
+.sign-up{
+    margin-top: 40px;
 }
