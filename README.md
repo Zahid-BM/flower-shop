@@ -1,6 +1,6 @@
 # Project Name : flower-shop
 
-![alt text](images/project-heighlight.png)
+![Project's banner photo](images/project-heighlight.png)
 
 ## Project goal
 
@@ -18,6 +18,8 @@
 ## Challenges I faced
 
 * Featured section rounded shape and image alignment.
+
+![Screen Shot of the part where I faced challenge](images/project-challenges-shot.png)
 
 ## Things I have learnt
 
