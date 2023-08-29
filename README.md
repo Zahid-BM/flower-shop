@@ -1,5 +1,7 @@
 # Project Name : flower-shop
 
+![alt text](images/project-heighlight.png)
+
 ## Project goal
 
 * To build a non-responsive landing page with HTML and CSS for a flower shop for Assignment: 01. 
