@@ -4,7 +4,7 @@
 
 ## Project goal
 
-* To build a non-responsive landing page with HTML and CSS for a flower shop for Assignment: 01. 
+* To build a non-responsive landing page with HTML and CSS for a flower shop for Assignment: 01.
 
 ## Project Description
 
@@ -26,4 +26,4 @@
 * Css flex box
 * Rounded shape card using border radius (top left + top right corner)
 
-### Live Website link [https://zahid-bm.github.io/flower-shop/] 
+### Live Website link [https://zahid-bm.github.io/flower-shop/]
